@@ -15,6 +15,8 @@ https://github.com/Bermet777/Neobis_DjangoGirls_Project.git
 
 - Install the project dependencies
 
+```pip install -r requirements.txt```
+
 - Run the development server
 
 ```python manage.py runserver```
