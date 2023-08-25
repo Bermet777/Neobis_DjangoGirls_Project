@@ -27,7 +27,7 @@ The application will be accessible at http://127.0.0.1:8000/.
 
 - View published blog posts on the main blog page.
 - To create a new post, click on the "New post" link on the top menu.
-- To edit or delete a post, click on the post title on the main blog page and use the options provided.
+- To edit or delete a post, click on the post title on the main blog page.
 
 
 
